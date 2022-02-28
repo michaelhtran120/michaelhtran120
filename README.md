@@ -22,7 +22,7 @@
 [![website](./img/steam-light.svg)](https://steamcommunity.com/id/eMpTykeki/#gh-light-mode-only)
 [![website](./img/steam-dark.svg)](https://steamcommunity.com/id/eMpTykeki/#gh-dark-mode-only)
 &nbsp;&nbsp;
-<img align="left" alt="Discord Icon" width="26px" src="./img/discord.svg" style="padding-right:10px;" />Discord: 
+
 
 ### Languages and Tools:
 
