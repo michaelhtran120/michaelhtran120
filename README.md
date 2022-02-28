@@ -1,8 +1,8 @@
 # Hello, I'm Michael Hoan Tran 👋 
 
-[![Website](https://img.shields.io/badge/Website-Hi!-%2390bccb?style=for-the-badge)](https://michaelhtran.com)
+[![Website](https://img.shields.io/badge/Portfolio-Hi!-%2390bccb?style=for-the-badge)](https://michaelhtran.com)
 
-## I move my body to music 💃, use my hands to make semi-delicious and nutritious meals 🧑‍🍳, lift heavy things 🏋️, play video games 🎮, and most importantly a developer ⌨️.
+## I move my body to music 💃 <br> Use my hands to make semi-delicious and nutritious meals 🧑‍🍳 <br> Lift heavy things 🏋️ <br> Play video games 🎮 <br> But most importantly a developer ⌨️.
 
 - 📚 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3, Python, SQL databases, produce a song.
