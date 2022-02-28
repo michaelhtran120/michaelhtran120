@@ -1,4 +1,4 @@
-# Hello, I'm Michael Hoan Tran 👋 
+# Hello, I'm Michael Hoan Tran 👋
 
 [![Website](https://img.shields.io/badge/Portfolio-Hi!-%2390bccb?style=for-the-badge)](https://michaelhtran.com)
 
@@ -6,13 +6,14 @@
 
 - 📚 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3, Python, SQL databases, produce a song.
-- 🎵 Fun fact: I love music and creating/sharing playlists. 
-    - Follow me on [Spotify](https://open.spotify.com/user/michaelhtran120?si=c3078f41300b481b)
+- 🎵 Fun fact: I love music and creating/sharing playlists.
+  - Follow me on [Spotify](https://open.spotify.com/user/michaelhtran120?si=c3078f41300b481b)
 - 🎮 Looking for a gaming partner? Connect with me on Steam/Discord
-    - [Steam](https://steamcommunity.com/id/eMpTykeki/)
-    - Discord Tag: チーズケーキ#8199
+  - [Steam](https://steamcommunity.com/id/eMpTykeki/)
+  - Discord Tag: チーズケーキ#8199
 
 ### Connect with me:
+
 [![website](./img/globe-light.svg)](https://michaelhtran.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://michaelhtran.com#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -22,7 +23,6 @@
 [![website](./img/steam-light.svg)](https://steamcommunity.com/id/eMpTykeki/#gh-light-mode-only)
 [![website](./img/steam-dark.svg)](https://steamcommunity.com/id/eMpTykeki/#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 
 ### Languages and Tools:
 
@@ -44,11 +44,10 @@
 
 ---
 
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="michaelhtran120's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=michaelhtran120&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="michaelhtran120's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=michaelhtran120&show_icons=true&theme=noctis_minimus" />
 
 </details>
 
