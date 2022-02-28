@@ -1,6 +1,6 @@
 # Hello, I'm Michael Hoan Tran 👋 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=Hi!)](https://michaelhtran.com)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge=Hi!)](https://michaelhtran.com)
 
 ## I move my body to music 💃, use my hands to make semi-delicious and nutritious meals 🧑‍🍳, lift heavy things 🏋️, play video games 🎮, and most importantly a developer ⌨️.
 
