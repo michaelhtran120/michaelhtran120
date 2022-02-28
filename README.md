@@ -6,15 +6,16 @@
 
 - 📚 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3, Python, SQL databases, produce a song.
-- 🎵 Fun fact: I love music and creating/sharing playlists. Hit me up to discuss music
+- 🎵 Fun fact: I love music and creating/sharing playlists. 
+    - Follow me on [Spotify](https://open.spotify.com/user/michaelhtran120?si=c3078f41300b481b)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://michaelhtran.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://michaelhtran.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/michaelhtran120#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/michaelhtran120#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
