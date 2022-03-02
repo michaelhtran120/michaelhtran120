@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-Hi!-%2390bccb?style=for-the-badge)](https://michaelhtran.com)
 
-## I am quite introverted 😐 <br> But I express myself by: 🙃 <br> Moving my body to music 💃 <br> Using my hands to make semi-delicious and nutritious meals 🧑‍🍳 <br> Lifting heavy things 🏋️ <br> Playing video games 🎮 <br> Digging for new music <br> But most importantly a developer ⌨️.
+## I am quite introverted 😐 <br> But I express myself by: 🙃 <br> Moving my body to music 💃 <br> Using my hands to make semi-delicious and nutritious meals 🧑‍🍳 <br> Lifting heavy things 🏋️ <br> Playing video games 🎮 <br> Digging for new music 🎵 <br> But most importantly a developer ⌨️.
 
 - 📚 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3, Python, SQL databases, produce a song.
